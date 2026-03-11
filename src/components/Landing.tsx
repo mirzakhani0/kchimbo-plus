@@ -9,7 +9,7 @@ export function Landing() {
   const navigate = useNavigate();
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/51900266810?text=Hola,%20quiero%20acceso%20a%20la%20plataforma%20KCHIMBO%2B', '_blank');
+    window.open('https://wa.me/51965890475?text=Hola,%20quiero%20acceso%20a%20la%20plataforma%20KCHIMBO%2B', '_blank');
   };
 
   return (
@@ -373,7 +373,7 @@ export function Landing() {
               className="px-8 py-3 bg-green-500 text-white font-semibold rounded-xl hover:bg-green-600 transition-all shadow-lg flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-5 h-5" />
-              WhatsApp: 900 266 810
+              WhatsApp: 965 890 475
             </button>
           </div>
         </div>
@@ -382,16 +382,16 @@ export function Landing() {
       {/* Footer - Limpio */}
       <footer className="bg-slate-800 text-slate-400 py-10">
         <div className="container mx-auto px-4">
-          {/* SINAPSIS */}
+          {/* MIRZAKHANI */}
           <div className="text-center mb-6">
-            <p className="text-xl font-bold text-white mb-1">SINAPSIS</p>
+            <p className="text-xl font-bold text-white mb-1">MIRZAKHANI</p>
             <p className="text-sm">Plataforma educativa para tu éxito</p>
           </div>
 
           {/* Social */}
           <div className="flex justify-center gap-4 mb-6">
             <a
-              href="https://www.facebook.com/Sinapquiz"
+              href="https://www.facebook.com/share/1DwnyA3abL/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 bg-slate-700 hover:bg-blue-600 text-white rounded-full flex items-center justify-center transition-colors"
@@ -401,7 +401,7 @@ export function Landing() {
               </svg>
             </a>
             <a
-              href="https://www.tiktok.com/@sinapsisperu"
+              href="https://www.tiktok.com/@mirzakhani211?_r=1&_t=ZS-94c25sVRrRU"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 bg-slate-700 hover:bg-black text-white rounded-full flex items-center justify-center transition-colors"
@@ -411,7 +411,7 @@ export function Landing() {
               </svg>
             </a>
             <a
-              href="https://wa.me/51900266810?text=Hola,%20quiero%20acceso%20a%20la%20plataforma%20SimulaUNA"
+              href="https://wa.me/51965890475?text=Hola,%20quiero%20acceso%20a%20la%20plataforma%20KCHIMBO%2B"
               target="_blank"
               rel="noopener noreferrer"
               className="w-9 h-9 bg-slate-700 hover:bg-green-500 text-white rounded-full flex items-center justify-center transition-colors"
