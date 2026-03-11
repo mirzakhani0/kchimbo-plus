@@ -568,7 +568,7 @@ export function StudentForm() {
                   Volver
                 </button>
                 <a
-                  href="https://wa.me/51900266810?text=Hola,%20quiero%20inscribirme%20en%20KCHIMBO%2B"
+                  href="https://wa.me/51965890475?text=Hola,%20quiero%20inscribirme%20en%20KCHIMBO%2B"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary flex-1 text-center"
