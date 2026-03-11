@@ -29,7 +29,7 @@ export function PDFGenerator({ result }: PDFGeneratorProps) {
       doc.setTextColor(255, 255, 255);
       doc.setFontSize(24);
       doc.setFont('helvetica', 'bold');
-      doc.text('SimulaUNA', pageWidth / 2, 20, { align: 'center' });
+      doc.text('KCHIMBO+', pageWidth / 2, 20, { align: 'center' });
 
       doc.setFontSize(12);
       doc.setFont('helvetica', 'normal');
@@ -194,7 +194,7 @@ export function PDFGenerator({ result }: PDFGeneratorProps) {
       doc.setTextColor(148, 163, 184);
       doc.setFont('helvetica', 'normal');
       doc.text(
-        'Este documento fue generado automáticamente por SimulaUNA.',
+        'Este documento fue generado automáticamente por KCHIMBO+.',
         pageWidth / 2,
         finalY,
         { align: 'center' }
@@ -207,7 +207,7 @@ export function PDFGenerator({ result }: PDFGeneratorProps) {
       );
 
       // Save PDF
-      const fileName = `SimulaUNA_${result.student.dni}_${new Date().toISOString().split('T')[0]}.pdf`;
+      const fileName = `KCHIMBO+_${result.student.dni}_${new Date().toISOString().split('T')[0]}.pdf`;
       doc.save(fileName);
 
     } catch (error) {
