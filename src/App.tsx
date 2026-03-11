@@ -10,7 +10,7 @@ import { SimulacroCepreuna } from './components/SimulacroCepreuna';
 
 function App() {
   return (
-    <BrowserRouter basename="/kchimbo">
+    <BrowserRouter basename="/kchimbo-plus">
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/registro" element={<StudentForm />} />
