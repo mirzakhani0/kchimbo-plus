@@ -39,7 +39,7 @@ export function Landing() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold mb-4 leading-tight">
               Prepárate para la
               <span className="block bg-gradient-to-r from-emerald-300 to-cyan-300 bg-clip-text text-transparent">
-                Admisión UNA 2025
+                Admisión UNA 2026
               </span>
             </h1>
 
@@ -184,7 +184,7 @@ export function Landing() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-slate-800">Banco CEPREUNA</h3>
-                    <p className="text-sm text-slate-500">Cuadernillos Semanales 2024-2025</p>
+                    <p className="text-sm text-slate-500">Cuadernillos Semanales 2025-2026</p>
                   </div>
                 </div>
 
