@@ -132,7 +132,7 @@ export function Landing() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-slate-800">Banco General</h3>
-                    <p className="text-sm text-slate-500">Exámenes de Admisión 1993-2024</p>
+                    <p className="text-sm text-slate-500">Exámenes de Admisión 1993-2026</p>
                   </div>
                 </div>
 
